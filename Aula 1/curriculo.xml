@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<curriculo>
+    <nome>Victhória Ramos Alentejo Coculilo</nome>
+    <idade>22</idade>
+    <endereco>
+        <rua>José Guilherme Herdy</rua>
+        <numero>139</numero>
+        <bairro>Prado</bairro>
+        <cidade>Nova Friburgo</cidade>
+        <estado>Rio de Janeiro</estado>
+        <cep>28635-230</cep>
+        <complemento>APTO 108 BLOCO 2</complemento>
+    </endereco>
+    <cpf>163.972.257-10</cpf>
+    <telefone>21 98815-3114</telefone>
+    <ocupacao>Estudante</ocupacao>
+    <faculdade>
+        <curso>Sistemas de Informação</curso>  
+        <instituicao>CEFET</instituicao>
+        <local>Friburgo</local>
+    </faculdade>
+</curriculo>
+<!--comentario-->
